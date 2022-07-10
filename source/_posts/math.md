@@ -1,6 +1,6 @@
 ---
 title: 笨笨石的错题本
-thumbnail: images/math.jpeg
+thumbnail: /images/math.jpeg
 tags:
 - 石头
 ---
