@@ -17,12 +17,12 @@ customize:
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: # path to favicon
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
-        twitter: /
-        facebook: /
-        stack-overflow: /
-        github: https://github.com/ppoffice/hexo-theme-hueman
-        weibo: /
-        rss: /
+    #     twitter: /
+    #     facebook: /
+    #     stack-overflow: /
+        github: https://github.com/superchen14/superchen14.github.io/tree/master
+    #     weibo: /
+    #     rss: /
 
 # Widgets
 widgets:
@@ -32,7 +32,7 @@ widgets:
     - archive
     - tag
     - tagcloud
-    - links
+    # - links
 #    - google_adsense
 
 # Search
